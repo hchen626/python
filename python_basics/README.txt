@@ -25,5 +25,7 @@ Online Course - Syallbus
 5. Working with Numpy Arrays
    - Numpy 1D Arrays
    - Numpy 2D Arrays
+   
+6. API
    - Simple APIs
    - Intro to Watson Speech to text and Language Translator
