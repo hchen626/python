@@ -27,5 +27,5 @@ Online Course - Syallbus
    - Numpy 2D Arrays
    
 6. API
-   - Simple APIs
+   - Simple and Rest APIs
    - Intro to Watson Speech to text and Language Translator
