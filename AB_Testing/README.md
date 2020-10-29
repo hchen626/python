@@ -13,9 +13,9 @@ What I found on the internet is:
 
 I somewhat follow this thought as the equation of the posterior found in my textbook is this:
 
-\begin{equation}
+```math
  \Pr(A|B)=\frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A)+\Pr(B|\neg A)\Pr(\neg A)}
-\end{equation}
+```
 
 
 ### Intro to Bayesian AB testing with Will Barker ###
