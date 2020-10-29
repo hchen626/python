@@ -8,3 +8,10 @@ In summary, the difference is that, in the Bayesian view, a probability is assig
 [Click here](https://cxl.com/blog/bayesian-frequentist-ab-testing/#:~:text=In%20summary%2C%20the%20difference%20is,without%20being%20assigned%20a%20probability.)
 
 ### Intro to Bayesian AB testing with Will Barker ###
+I wrote a Juypter notebook based on his presentation. I also added some code to graph the beta distributions.
+
+I still need some time to review his thoughts because the equation from my good old college textbook.
+
+The hypothesis testing from what I am seeing in my text book talks about whether the probability of parameter being in the null or alternative set.
+
+### ###
