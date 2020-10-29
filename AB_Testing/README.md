@@ -1,6 +1,6 @@
 # Things that I came across on AB Testing #
 
-I recollect what I learned from school (Frequenist view). I recently dusted off my good old statistic textbook, so I can find some more info Bayesian view. I'll continue to review and update what I find. Use the example code at your own risk. Not everything in the notebook is able to render, so you probably need to download the notebook. I am using Juypter 6.1.4 by the way.
+I recollect what I learned from school (Frequenist view). I recently dusted off my good old statistic textbook, so I can find some more info Bayesian view. I'll continue to review and update what I find. Use the example code at your own risk. Not everything in the notebook is able to render when you preview the book on website, so you probably need to download the notebook. I am using Juypter 6.1.4 by the way.
 
 ### Summary on this Topic ###
 What I found on the internet is:
