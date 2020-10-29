@@ -11,15 +11,7 @@ What I found on the internet is:
 
 [Click here](https://cxl.com/blog/bayesian-frequentist-ab-testing/#:~:text=In%20summary%2C%20the%20difference%20is,without%20being%20assigned%20a%20probability.)
 
-I somewhat follow this thought as the equation of the posterior found in my textbook is this:
-
-<script type="text/javascript" async
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
-config=TeX-MML-AM_CHTML"
-</script>
-
-$$\Pr(A|B)=\frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A)+\Pr(B|\neg A)\Pr(\neg A)}$$
-
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 ### Intro to Bayesian AB testing with Will Barker ###
 I wrote a Juypter notebook based on his presentation. I also added some code to graph the beta distributions, which he didn't he show in presentation. 
