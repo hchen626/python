@@ -13,6 +13,10 @@ What I found on the internet is:
 
 I somewhat follow this thought as the equation of the posterior found in my textbook is this:
 
+\begin{equation}
+ \Pr(A|B)=\frac{\Pr(B|A)\Pr(A)}{\Pr(B|A)\Pr(A)+\Pr(B|\neg A)\Pr(\neg A)}
+\end{equation}
+
 
 ### Intro to Bayesian AB testing with Will Barker ###
 I wrote a Juypter notebook based on his presentation. I also added some code to graph the beta distributions, which he didn't he show in presentation. 
