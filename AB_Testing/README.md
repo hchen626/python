@@ -11,7 +11,7 @@ What I found on the internet is:
 
 [Click here](https://cxl.com/blog/bayesian-frequentist-ab-testing/#:~:text=In%20summary%2C%20the%20difference%20is,without%20being%20assigned%20a%20probability.)
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+[formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 ### Intro to Bayesian AB testing with Will Barker ###
 I wrote a Juypter notebook based on his presentation. I also added some code to graph the beta distributions, which he didn't he show in presentation. 
