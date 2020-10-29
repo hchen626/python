@@ -13,17 +13,16 @@ What I found on the internet is:
 
 
 ### Intro to Bayesian AB testing with Will Barker ###
-I wrote a Juypter notebook based on his presentation. I also added some code to graph the beta distributions, which he didn't he show. 
+I wrote a Juypter notebook, using his code that he used in his presentation. I also added some code to graph the beta distributions, which he didn't he show. 
 
 I still need some time to review his thoughts. The hypothesis testing from what I am seeing in my text book talks about whether the probability of parameter being in the null or alternative set.
 
 [Click here](https://www.youtube.com/watch?v=nRLI_KbvZTQ)
 
 ### Another article on this topic ###
-I didn't feel like downgrading my python to 3.7, so I couldn't run his chainconsumer code.
+I used the code that he presented in his article. I don't quite understand his formula when he goes into Bayesian. I believe he wrote it wrong in the image.
+- I agree with his point-of-view on the T-Test though. I added some background to help follow his thought process.
 
-I don't quite understand his formula when he goes into Bayesian. I believe he wrote in wrong in the image.
-
-I agree with his point-of-view on the T-Test though. I added some background to help follow his thought process.
+I also didn't feel like downgrading my python to 3.7, so I couldn't run his chainconsumer code.
 
 [Click here](https://cosmiccoding.com.au/tutorials/ab_tests)
