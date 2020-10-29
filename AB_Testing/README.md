@@ -1,6 +1,6 @@
 # Things that I came across on AB Testing #
 
-I recollect what I learned from school (Frequenist view). I recently dusted off my good old statistic textbook, so I can find some more info Bayesian view. I'll continue to review and update what I find. 
+I recollect what I learned from school (Frequenist view). I recently dusted off my good old statistic textbook, so I can find some more info Bayesian view. I'll continue to review and update what I find. Use the example code at your own risk. 
 
 ### Summary on this Topic ###
 What I found on the internet is:
