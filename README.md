@@ -1,2 +1,5 @@
 # python
-Taking a Python course at edX 
+Taking Python courses at edX 
+
+## Additional notes
+Also took courses at CFI
