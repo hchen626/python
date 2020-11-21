@@ -23,7 +23,7 @@ Easier tutorial than edX
   - series
   - Boolean Mask
   - GroupBy
-- Ch_6 = Liquity Regressor 
+- Ch_8 = Liquity Regressor 
   - Develop a model to recommend appropriate liquidity for hypothetical client
   - Hypertuned 5 Class models 
     - Linear Regression: Lasso (L1), Ridge (L2), Elastic Net (Ratio of L1 to L2)
